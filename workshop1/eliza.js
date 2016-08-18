@@ -42,7 +42,7 @@ var rules = {
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "I am not interested in you or anything that you say",
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",
